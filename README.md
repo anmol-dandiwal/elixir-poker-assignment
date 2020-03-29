@@ -1,6 +1,6 @@
 # elixir-poker-assignment
 
-This assignment's purpose was to practice programming in elixir. 
+This projects's purpose was to practice programming in elixir. 
 
 This program is used by calling Poker.deal with a list of ten (10) integers ranging from one (1) to fifty-two (52). This list represents the top ten cards of a 52 card deck. 
 
